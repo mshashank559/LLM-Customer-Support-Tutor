@@ -49,6 +49,7 @@ The project simulates a **24-week Data Science Internship** and combines **Natur
 
 ## 🗂️ Project Structure
 
+```bash
 LLM-Customer-Support-Tutor/
 ├── data/                   # Raw & processed datasets
 ├── models/                 # Trained ML and LLM fine-tuned models
@@ -63,8 +64,7 @@ LLM-Customer-Support-Tutor/
 ├── requirements.txt        # Project dependencies
 ├── README.md               # Documentation
 └── LICENSE                 # License file
-
-
+```
 ----------
 
 ## 🚀 Features
@@ -188,4 +188,5 @@ This project is licensed under the **MIT License**.
     
 -   Lower **escalation rates by 20%**.
     
+
 -   Enable **scalable AI-powered coaching** across global teams.
